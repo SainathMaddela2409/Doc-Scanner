@@ -7,3 +7,4 @@ A simple Python project that uses OpenCV to scan documents from images by detect
 - Perspective transformation
 - Image enhancement 
 - Works with photos from your phone/camera
+- Scans all images from sample folder and stores them in output folder
